@@ -54,11 +54,11 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ## 📊 GitHub Stats
 
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipinlal-p&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=vipinlal-p&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vipinlal-p&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=vipinlal-p&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinlal-p&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinlal-p&layout=compact&theme=radical)
 
 ---
 
@@ -67,16 +67,3 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:vipinlal.p.123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918848047674)
-
----
-
-## ⚡ What I Bring
-
-- Strong foundation in **Geospatial Systems (GIS + Remote Sensing)**  
-- Ability to build **end-to-end full-stack applications**  
-- Experience with **low-level programming & performance optimization**  
-- Focus on **clean architecture, security, and scalability**
-
----
-
-⭐ *Open to opportunities in Full Stack / GIS / Backend Engineering*
