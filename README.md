@@ -1,4 +1,4 @@
-# Hi, I'm Vipinlal P 👋  
+# Hi, I'm Vipinlal P <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **Full Stack Developer | GIS Engineer | Systems Enthusiast**
 
 I build **scalable web applications**, **geospatial systems**, and **low-level tools** with a strong focus on performance, security, and clean architecture.
@@ -15,34 +15,11 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![PostGIS](https://img.shields.io/badge/PostGIS-2E7D32?style=for-the-badge)
-
-### 🗺️ GIS & Tools
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet)
-![GeoServer](https://img.shields.io/badge/GeoServer-3F7F3F?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### 🖥️ Desktop & Systems
-![Electron](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,python,r,html,css,react,nodejs,express,postgres,git,github,vscode,docker,tailwind" />
+</p>
 
 ---
 
