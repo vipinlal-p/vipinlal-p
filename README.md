@@ -52,8 +52,6 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ---
 
-## � Other Projects
-
 ### 🧮 [Calculator App](https://github.com/vipinlal-p/calculator-app)
 
 **Python | Tkinter | Desktop UI**
@@ -67,7 +65,7 @@ A modern desktop calculator application with both standard and scientific modes,
 
 ---
 
-## �📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vipinlal-p&show_icons=true&theme=radical)
 
