@@ -25,7 +25,7 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ## 📌 Featured Projects
 
-### 🗺️ VitalWatch  
+### 🗺️ [VitalWatch](https://github.com/vipinlal-p/vital-watch)
 **Full Stack GIS Platform (React · Node.js · PostGIS · GeoServer)**  
 - Interactive spatial data visualization with vector & raster support  
 - GeoServer WMS integration and client-side reprojection  
@@ -34,7 +34,7 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ---
 
-### 🔐 Media Notebook  
+### 🔐 [Media Notebook](https://github.com/vipinlal-p/media-notebook)
 **Secure Encrypted Media Vault (Electron · React · TypeScript)**  
 - AES-256-GCM encrypted storage with PBKDF2 key derivation  
 - SQLite-powered metadata, tagging, and search system  
@@ -43,7 +43,7 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ---
 
-### ⚙️ Text Editor (Kilo-Inspired)  
+### ⚙️ [Text Editor (Kilo-Inspired)](https://github.com/vipinlal-p/text_editor)
 **C99 | Systems Programming | Terminal UI**  
 - Raw terminal mode with custom key decoding  
 - Incremental search and syntax highlighting (C/C++)  
