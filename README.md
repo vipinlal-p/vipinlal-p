@@ -87,6 +87,7 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:vipinlal.p.123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918848047674)
 
 ---
 
