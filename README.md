@@ -52,7 +52,22 @@ I build **scalable web applications**, **geospatial systems**, and **low-level t
 
 ---
 
-## 📊 GitHub Stats
+## � Other Projects
+
+### 🧮 [Calculator App](https://github.com/vipinlal-p/calculator-app)
+
+**Python | Tkinter | Desktop UI**
+
+A modern desktop calculator application with both standard and scientific modes, designed with a clean UI and modular architecture.
+
+* Light/Dark theme with responsive UI
+* Calculation history and memory functions
+* Keyboard input support and clipboard integration
+* Structured codebase with separation of logic, UI, and state
+
+---
+
+## �📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vipinlal-p&show_icons=true&theme=radical)
 
